@@ -9,7 +9,7 @@ namespace Lab04.ViewModels
 {
     public class CourseViewModel
     {
-        public int Id1 { get; set; }
+    
         public int Id { get; set; }
         [Required]
         public string Place { get; set; }
