@@ -12,7 +12,7 @@ namespace Lab04.Models
         [Key]
         [Column(Order = 1)]
         public string FollowerId { get; set; }
-        public string FollowerId1 { get; set; }
+        
 
         [Key]
         [Column(Order = 2)]
