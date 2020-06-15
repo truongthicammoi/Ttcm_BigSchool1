@@ -18,7 +18,6 @@ namespace Lab04.Controllers
         public CoursesController()
         {
             _dbContext = new ApplicationDbContext();
-            _dbContext = new ApplicationDbContext();
         }
 
         public ActionResult Create()
